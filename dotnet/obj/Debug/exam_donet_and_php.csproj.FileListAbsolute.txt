@@ -1,0 +1,15 @@
+C:\Users\MIS\source\repos\exam_donet_and_php\bin\Debug\exam_donet_and_php.exe.config
+C:\Users\MIS\source\repos\exam_donet_and_php\bin\Debug\exam_donet_and_php.exe
+C:\Users\MIS\source\repos\exam_donet_and_php\bin\Debug\exam_donet_and_php.pdb
+C:\Users\MIS\source\repos\exam_donet_and_php\obj\Debug\exam_donet_and_php.csprojAssemblyReference.cache
+C:\Users\MIS\source\repos\exam_donet_and_php\obj\Debug\exam_donet_and_php.Form1.resources
+C:\Users\MIS\source\repos\exam_donet_and_php\obj\Debug\exam_donet_and_php.Properties.Resources.resources
+C:\Users\MIS\source\repos\exam_donet_and_php\obj\Debug\exam_donet_and_php.csproj.GenerateResource.cache
+C:\Users\MIS\source\repos\exam_donet_and_php\obj\Debug\exam_donet_and_php.csproj.CoreCompileInputs.cache
+C:\Users\MIS\source\repos\exam_donet_and_php\obj\Debug\exam_donet_and_php.exe
+C:\Users\MIS\source\repos\exam_donet_and_php\obj\Debug\exam_donet_and_php.pdb
+C:\Users\MIS\source\repos\exam_donet_and_php\obj\Debug\exam_donet_and_php.forms.ProductForm.resources
+C:\Users\MIS\source\repos\exam_donet_and_php\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MIS\source\repos\exam_donet_and_php\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MIS\source\repos\exam_donet_and_php\obj\Debug\exam_donet_and_php.csproj.CopyComplete
+C:\Users\MIS\source\repos\exam_donet_and_php\obj\Debug\exam_donet_and_php.forms.CategoriesForm.resources
